@@ -1,0 +1,8 @@
+https://github.com/scratchfoundation/scratch-sb1-converter
+https://github.com/TurboWarp/scratch-parser/blob/master/lib/
+https://github.com/DaveGamble/cJSON?tab=readme-ov-file#including-cjson
+https://libzip.org/documentation/
+https://www.raylib.com/
+https://github.com/raysan5/raudio/blob/master/examples/raudio_standalone.c
+https://www.tutorialspoint.com/objective_c/objective_c_program_structure.htm
+https://github.com/raysan5/raylib/blob/master/src/rlgl.h
